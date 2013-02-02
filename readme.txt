@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------
+-- Nuke was created by Matheus Fischer
+-----------------------------------------------------------------------------
+-- This project was a quick-study project on Unreal Script. This is not even
+-- near it's conclusion.
+-- I hope it helps
+--
+-- This is a PROOF OF CONCEPT. Please do not use this in it's current state.
+-----------------------------------------------------------------------------

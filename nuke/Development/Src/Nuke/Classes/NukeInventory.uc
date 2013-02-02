@@ -1,0 +1,1 @@
+class NukeInventory extends Inventory;
